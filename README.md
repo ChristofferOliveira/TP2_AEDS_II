@@ -2,7 +2,7 @@
 ## Matéria
 - Algoritimo e Estruturas de Dados II
 
-## Autore
+## Autor
 - Christoffer de Paula Oliveira
 
 ## Objetivo
